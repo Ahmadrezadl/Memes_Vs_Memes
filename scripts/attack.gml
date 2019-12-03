@@ -13,3 +13,10 @@ if(reloading == 60)
     reloading = 0;
     image_index = 0;
 }
+if(instance_nearest(self.x,self.y,Troll1) < 40)
+{
+    hp--;
+}
+if(hp < 1)
+instance_destroy();
+

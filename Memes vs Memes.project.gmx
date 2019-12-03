@@ -25,6 +25,8 @@
     <script>scripts\spawnEnemy.gml</script>
     <script>scripts\createEnemy.gml</script>
     <script>scripts\killEnemy.gml</script>
+    <script>scripts\eating.gml</script>
+    <script>scripts\placeUnit.gml</script>
   </scripts>
   <objects name="objects">
     <object>objects\unit1</object>
