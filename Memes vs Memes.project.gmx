@@ -7,15 +7,20 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\spr_pokerandlol</sprite>
+    <sprite>sprites\sprite6</sprite>
     <sprite>sprites\spr_troll</sprite>
     <sprite>sprites\spr_lol</sprite>
     <sprite>sprites\spr_pink</sprite>
+    <sprite>sprites\spr_gold</sprite>
+    <sprite>sprites\spr_golder</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\D186uZ</background>
     <background>background\maxresdefault</background>
   </backgrounds>
-  <paths name="paths"/>
+  <paths name="paths">
+    <path>paths\path0</path>
+  </paths>
   <scripts name="scripts">
     <script>scripts\moveLeft.gml</script>
     <script>scripts\setLine.gml</script>
@@ -27,14 +32,18 @@
     <script>scripts\killEnemy.gml</script>
     <script>scripts\eating.gml</script>
     <script>scripts\placeUnit.gml</script>
+    <script>scripts\goldCollect.gml</script>
   </scripts>
   <objects name="objects">
+    <object>objects\golder</object>
     <object>objects\unit1</object>
     <object>objects\Troll1</object>
     <object>objects\GameInfos</object>
     <object>objects\EnemyCreator</object>
     <object>objects\Bullet1</object>
     <object>objects\object5</object>
+    <object>objects\gold</object>
+    <object>objects\buy</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
