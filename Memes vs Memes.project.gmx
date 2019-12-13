@@ -19,7 +19,7 @@
     <background>background\maxresdefault</background>
   </backgrounds>
   <paths name="paths">
-    <path>paths\path0</path>
+    <path>paths\goldwalk</path>
   </paths>
   <scripts name="scripts">
     <script>scripts\moveLeft.gml</script>

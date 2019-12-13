@@ -115,7 +115,7 @@
           <argument>
             <kind>1</kind>
             <string>time++;
-if(time &gt; 750)
+if(time &gt; 500)
 {
     instance_create(self.x,self.y,gold)
     time = 0;
