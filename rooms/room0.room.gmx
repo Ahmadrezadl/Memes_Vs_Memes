@@ -31,7 +31,7 @@
     <yoffset>0</yoffset>
   </makerSettings>
   <backgrounds>
-    <background visible="-1" foreground="0" name="maxresdefault" x="0" y="0" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="-1"/>
+    <background visible="-1" foreground="0" name="maxresdefault" x="0" y="0" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="0"/>
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
@@ -115,8 +115,8 @@
     <instance objName="Troll1" x="2464" y="384" name="inst_67A55D27" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Troll1" x="2528" y="384" name="inst_EC819A3A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Troll1" x="2592" y="384" name="inst_5D5F0E4D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="buy" x="174" y="60" name="inst_89583CC9" locked="0" code="ch = 0" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="buy" x="171" y="164" name="inst_E0C97A9A" locked="0" code="ch = 1&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="buy" x="128" y="160" name="inst_89583CC9" locked="0" code="ch = 0" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="buy" x="128" y="288" name="inst_E0C97A9A" locked="0" code="ch = 1&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

@@ -13,7 +13,7 @@
     <TextureGroup0>0</TextureGroup0>
   </TextureGroups>
   <For3D>0</For3D>
-  <width>1006</width>
-  <height>600</height>
+  <width>1024</width>
+  <height>768</height>
   <data>images\maxresdefault.png</data>
 </background>
